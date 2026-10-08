@@ -2,8 +2,8 @@
 
 # Anggota Kelompok
 1. Zulfan Akbar Putra - Project Manager
-2. Ardiash Tegar Bahtiar - Front-End
-3. Frendi Geri Nugratama - Back-End
+2. Ardiash Tegar Bahtiar - Back-End
+3. Frendi Geri Nugratama - Front-End
 
 ## Mata Kuliah
 Software Development
